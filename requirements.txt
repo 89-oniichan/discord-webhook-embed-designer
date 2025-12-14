@@ -1,0 +1,14 @@
+# Discord Webhook Designer - Requirements
+# Install with: pip install -r requirements.txt
+
+# UI Framework
+customtkinter>=5.2.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Optional: For better logging (already included in Python 3+)
+# logging is built-in
